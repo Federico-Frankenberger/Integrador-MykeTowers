@@ -72,6 +72,8 @@ Asegúrate de tener configurados los parámetros de conexión a la base de datos
 
 ### 3. Ejecutar la aplicación Java
 
+Ejecutar la clase `main` para iniciar la aplicación.
+
 #### Menú por consola
 
 La aplicación Java cuenta con un menú por consola que permite realizar operaciones CRUD sobre personas y domicilios:
